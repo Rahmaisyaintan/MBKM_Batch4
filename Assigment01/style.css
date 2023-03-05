@@ -1,0 +1,95 @@
+/*Home*/
+.navbar{
+    background-color: rgb(189, 187, 183);
+}
+body{
+    padding: 20px;
+    background-color: rgba(207, 204, 204, 0.694);
+}
+.login{
+    margin-right: 20px;
+}
+.jumbotron{
+    padding: 30px;
+    background-image: url("images/bg1.jpg");
+    margin-top: 10px;
+    text-align: center;
+    height: 250px;
+}
+
+.button{
+    margin-top: 50px;
+}
+.card{
+    padding: 15px;
+}
+.footer {
+    background-color: rgb(181, 181, 181);
+    padding: 10px;
+    margin-top: 20px;
+  }
+.card-body{
+    margin-left: 50px;
+}
+/*Pesan*/
+.pesan{
+    background-image: url('images/bg1.jpg');
+    width: 1204px;
+    height: 716px;
+    left: 118px;
+    top: 201px;
+    display: block;
+    margin-left: auto;
+    margin-top: 50px;
+    margin-right: auto;
+    align-items: center;
+}
+.pesan .container{
+    position: absolute;
+    margin-left: 80px;
+    margin-top: 50px;
+    padding: 20px 25px;
+    width: 492px;
+    height: 600px;
+    background-color: rgb(114, 101, 78);
+    box-shadow: 0 0 10px rgba(255,255,255,.3);
+}
+.pesan .container h1{
+    text-align: center;
+    color:white;
+    font-size: 20px;
+    margin-bottom: 30px;
+    text-transform:capitalize;
+   
+}
+.pesan .container label{
+    text-align: left;
+    margin-left: 30px;
+    font-size: 20px;
+    color: #dddddd;
+}
+.pesan .container form input{
+    width: calc(100% - 50px);
+    padding: 8px 10px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+    border: none;
+    background-color: white;
+    border-bottom: 2px solid #020202;
+    color:rgb(179, 179, 179);
+    font-size: px;
+}
+.pesan .container form p{
+    width: 100%;
+    padding: 10px 0;
+    text-align: center;
+    border: none;
+    background-color:#29281cfb;
+    font-size: 18px;
+    color:white;
+}
+/*Review*/
+.row no-gutters{
+    padding: 100px;
+    margin-right: 100px;
+}
